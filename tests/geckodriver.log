@@ -1,0 +1,27 @@
+1639482356820	geckodriver	INFO	Listening on 127.0.0.1:52718
+1639482359875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52719" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileAMh9rz"
+1639482360515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileAMh9rz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52719/devtools/browser/5a00592a-c0d9-405a-a5b8-f806caba660b
+1639482364009	Marionette	INFO	Listening on port 52724
+1639482364206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1639483252375	Marionette	INFO	Stopped listening on port 52724
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1639550248023	geckodriver	INFO	Listening on 127.0.0.1:57617
+1639550251512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57618" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilekopJJC"
+1639550252312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilekopJJC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57618/devtools/browser/f7eb5730-573b-4acd-9933-0de0817b0528
+1639550256599	Marionette	INFO	Listening on port 57623
+1639550257171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1639555567157	Marionette	INFO	Stopped listening on port 57623
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
